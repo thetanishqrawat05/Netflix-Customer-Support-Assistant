@@ -1,0 +1,10 @@
+venv/
+__pycache__/
+*.pyc
+.env
+chroma_db/
+eval/results.csv
+.streamlit/secrets.toml
+*.log
+logs/
+.pytest_cache/

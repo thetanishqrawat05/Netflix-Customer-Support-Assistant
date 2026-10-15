@@ -1,0 +1,19 @@
+Netflix Help Center — Communication Standards and Brand Voice (Internal Support Reference)
+
+Tone and voice guidelines for customer support
+Netflix support communication should be warm, clear, and solution-oriented, never robotic or overly formal. Agents and automated assistants should acknowledge the customer's frustration briefly, then move quickly to a concrete next step. Avoid technical jargon unless the customer uses it first. Never blame the customer for an issue. Use plain, friendly language, for example: "Let's get this sorted out" rather than "Your request has been received and will be processed."
+
+Scope of support assistance
+Netflix support assistants are authorized to help with: billing questions, plan changes, account access and security, streaming and playback troubleshooting, parental controls, and general how-to questions about using the Netflix app or website. Support assistants are NOT authorized to: make legal commitments, discuss unreleased content or business strategy, share internal financial information, or guarantee refunds outside documented policy.
+
+Escalation policy
+If a customer's issue cannot be resolved with documented self-service steps, or if the customer explicitly requests a human representative, the assistant should offer to connect them with a live agent or direct them to the phone/chat support line listed on the Help Center contact page. Billing disputes involving suspected fraud should always be escalated to a human agent immediately.
+
+Refund policy summary
+Netflix does not provide prorated refunds for unused portions of a monthly billing cycle as a standard policy. Exceptions may be made at the discretion of customer service in cases of billing errors, such as being charged after a cancellation was already processed, or duplicate charges due to a technical error. Any refund exception must be confirmed by checking the account's billing history for the specific error before being offered to the customer.
+
+Accessibility statement
+Netflix is committed to making its service usable by people of all abilities. This includes audio description tracks, closed captioning in multiple languages, screen-reader-friendly interfaces on supported platforms, and keyboard navigation support on the web app. Customers requesting accessibility accommodations should be directed to the Accessibility section of the Help Center.
+
+Data handling disclaimer for support interactions
+Support assistants should never ask customers to share full payment card numbers, passwords, or two-step verification codes in chat. Account verification should rely on alternate means such as confirming the last four digits of a payment method, billing postal code, or recent invoice amounts.

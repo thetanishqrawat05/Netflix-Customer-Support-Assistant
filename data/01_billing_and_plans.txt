@@ -1,0 +1,25 @@
+Netflix Help Center — Billing and Plans
+
+How Netflix billing works
+Netflix membership is a recurring subscription that bills automatically to the payment method on file every month on the same calendar date you signed up, unless you cancel before your renewal date. If you signed up on the 31st of a month, and a future month doesn't have 31 days, your billing date will shift to the last day of that month. Netflix does not offer refunds or credits for partial monthly subscription periods, except in regions where required by local law.
+
+Netflix plans and pricing
+Netflix offers several plans that vary by video quality, number of supported devices, and whether downloads are available. The Standard with Ads plan is the lowest-priced option and includes limited advertising breaks during streaming. The Standard plan offers Full HD streaming on two supported devices at a time and does not include advertising. The Premium plan offers Ultra HD (4K) streaming on up to four supported devices at a time, download access on up to six devices, and spatial audio support on select titles. Prices vary by country and are listed in your local currency during sign-up and in Account Settings.
+
+Changing your plan
+You can change your plan at any time from the Plan page in Account Settings. If you upgrade, the change takes effect immediately and you may be charged a prorated amount for the remainder of the current billing cycle. If you downgrade, the change takes effect at the start of your next billing cycle, and you keep your current plan's benefits until then.
+
+Extra Member feature
+In households where the account owner wants to share their membership with someone who does not live with them, Netflix offers an Extra Member add-on for an additional monthly fee on Standard and Premium plans. Extra Member sub-accounts have their own profile, login, and personalized recommendations, but are billed to and managed by the account owner.
+
+Failed payments
+If a payment fails, Netflix will attempt to charge your payment method again over the course of about one month. During this time, your access may be limited to a reduced catalog or paused altogether until the payment issue is resolved. You will receive an email notification when a payment fails, and you can update your payment method at any time from Account Settings without waiting for the automatic retry.
+
+Cancelling your membership
+You can cancel your Netflix membership at any time from the Account page. Cancelling is not the same as deactivating your account; your account and viewing history are retained for up to 10 months after cancellation in case you want to rejoin. After cancellation, you can continue watching until the end of your current billing period. There is no cancellation fee.
+
+Gift cards and prepaid codes
+Netflix gift cards and prepaid codes can be redeemed at netflix.com/redeem. Redeeming a code adds the value to your account balance, which is used to pay for your subscription before any other payment method on file is charged. Gift card balances do not expire and are not redeemable for cash except where required by law.
+
+Taxes
+Depending on your country or region, applicable taxes such as VAT, GST, or sales tax may be added to the price of your membership. These taxes are calculated automatically based on the billing address associated with your payment method.

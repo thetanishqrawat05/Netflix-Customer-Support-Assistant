@@ -1,0 +1,22 @@
+Netflix Help Center — Streaming and Playback Issues
+
+Buffering and slow streaming
+Buffering usually happens when your internet connection cannot sustain the bitrate required for your chosen video quality. Netflix recommends a minimum download speed of 3 Mbps for SD quality, 5 Mbps for HD, and 25 Mbps for Ultra HD (4K). If you experience frequent buffering, try restarting your router, moving closer to your Wi-Fi access point, closing other applications using bandwidth, or lowering your streaming quality from Account > Playback Settings.
+
+Error codes
+Common Netflix error codes include: NW-2-5 (network connectivity issue, usually resolved by restarting your device and router), UI-800-3 (app or browser cache issue, resolved by clearing cache or reinstalling the app), M7111-5059 (often related to VPN or proxy use, which can interfere with regional content licensing and cause playback blocks), and NSES-500 (temporary Netflix server-side issue, usually resolves on its own within a few minutes).
+
+Supported devices
+Netflix is supported on smart TVs, streaming media players, game consoles, mobile phones, tablets, computers, and set-top boxes from major manufacturers. A full list of compatible devices is available on the Netflix website. Older devices may lose support over time as Netflix updates its technical requirements; affected customers are typically notified by email in advance.
+
+Downloads for offline viewing
+Many titles, though not all due to licensing restrictions, are available for download on mobile and tablet devices through the Netflix app. Downloaded titles are available offline for a limited time, often 48 hours after you start watching, and the total number of simultaneous downloads depends on your plan. Downloads are automatically deleted after their expiration window unless renewed by reconnecting to the internet.
+
+Audio and subtitle options
+Audio tracks and subtitles vary by title and are provided based on licensing agreements with content owners. Users can change the audio language and enable or disable subtitles from the playback controls. Netflix also offers an Audio Description track for select titles, narrating key visual elements for users who are blind or have low vision.
+
+Video quality settings
+Video quality can be adjusted manually in Account > Playback Settings between Low, Medium, High (or Auto), and Ultra HD, where available on your plan. The "Auto" setting adjusts quality dynamically to balance picture quality and data usage based on your current connection.
+
+Regional content availability
+The titles available on Netflix differ by country due to licensing agreements negotiated separately in each region. Using a VPN or proxy to access content libraries from another region violates Netflix's Terms of Use and may result in playback errors or, in repeat cases, account restrictions.

@@ -1,0 +1,25 @@
+Netflix Help Center — Account and Security
+
+Household sharing rules
+A Netflix account is intended for use by people who live in a single household. Netflix may periodically verify that devices used on an account belong to the primary household through methods such as IP address checks, device IDs, and account activity. If you travel or want to watch on a device outside your household, you can request temporary access, which typically lasts seven days, by verifying your identity via a code sent to the account owner's email or phone.
+
+Updating account information
+You can update your email address, password, and phone number from the Account page under "Profile and Parental Controls" or "Membership and Billing." Netflix recommends using a strong, unique password and enabling two-step verification for additional account security. If you no longer have access to the email on file, Netflix support can help you regain access after verifying your identity through alternate means, such as answering account security questions or confirming recent payment details.
+
+Two-step verification
+Two-step verification adds a layer of security by requiring a one-time code sent via text message or a third-party authentication app in addition to your password when logging in from a new device. You can enable this from Account > Security & Privacy.
+
+Profile management
+Each Netflix account can have multiple profiles, up to five on most plans, allowing different household members to have personalized recommendations, viewing history, and "My List." Profiles can be designated as "Kids" profiles, which restrict content to titles rated appropriate for children and disable features like profile transfer and account settings access.
+
+Parental controls
+Account owners can set a PIN to restrict access to mature content, lock specific profiles, or require a PIN to play titles above a certain maturity rating. Parental controls are managed from Account > Profile Lock or Playback Settings.
+
+Suspicious activity and account recovery
+If you notice unfamiliar devices, viewing activity, or profiles on your account, change your password immediately and sign out of all devices using the "Sign Out of All Devices" option in Account Settings. If you believe your account has been compromised and cannot access it, contact Netflix support through the Help Center chat or phone line for identity verification and account recovery.
+
+Data privacy
+Netflix collects viewing history, device information, and interaction data to power recommendations and improve its service. Users can review and manage some of this data through their account's privacy settings, and can request a copy of their personal data or account deletion in accordance with applicable privacy laws such as GDPR or CCPA, via the Privacy Center.
+
+Account deactivation vs deletion
+Cancelling a subscription pauses billing but retains your account data. To permanently delete your account and associated data, you must submit a separate request through the Privacy Center, which Netflix will process within the timeframe required by applicable law, typically within 30 days.
